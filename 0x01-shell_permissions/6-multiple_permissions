@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd ug+x,o+r \n
+chomd ug+x,o+r
