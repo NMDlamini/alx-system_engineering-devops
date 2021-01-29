@@ -1,6 +1,6 @@
 A list of all projects in this folder and their descriptions:
 
-0-iam_betty   	       changes user ID.
+0-iam_betty   	       prints effective user ID.
 1-who_am_i	       prints effective user id of current user.
 2-groups	       prints all groups the current user is a part of.
 4-empty		       creates empty file call hello.
@@ -18,4 +18,4 @@ A list of all projects in this folder and their descriptions:
 15-symbolic_link_permissions changes the owner and the group owner of the file _hello to betty and holberton respectively.
 16-if_only		     changes the owner of the file hello to betty only if it is owned by the user guillaume.
 
-END. \n
+END. 
