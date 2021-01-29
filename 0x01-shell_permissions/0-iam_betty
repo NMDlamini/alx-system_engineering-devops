@@ -1,2 +1,3 @@
 #!/bin/bash
-usermod \n  
+su betty
+
